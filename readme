@@ -1,0 +1,122 @@
+# 🛍️ Myntra Data Analytics Project
+
+## 📌 Project Overview
+This project focuses on analyzing the Myntra fashion dataset to extract meaningful business insights using Microsoft Excel. The dataset was cleaned, transformed, and analyzed to identify sales trends, customer preferences, and product performance.
+
+The goal of this project is to demonstrate data cleaning, data analysis, and dashboard creation skills.
+
+---
+
+## 📂 Dataset
+- **Dataset:** Myntra Fashion Dataset
+- **Tool Used:** Microsoft Excel
+- **File Format:** `.xlsx`
+
+---
+
+## 🎯 Objectives
+- Clean and preprocess raw data.
+- Remove duplicates and handle missing values.
+- Standardize data for analysis.
+- Analyze product categories and brands.
+- Identify top-performing brands.
+- Study pricing and discount patterns.
+- Create an interactive dashboard for business insights.
+
+---
+
+## 🛠️ Tools & Skills Used
+- Microsoft Excel
+- Data Cleaning
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Conditional Formatting
+- Data Visualization
+- Dashboard Design
+
+---
+
+## 📊 Key Analysis
+- Top-selling brands
+- Product category distribution
+- Average selling price by category
+- Discount percentage analysis
+- Brand-wise product count
+- Price comparison across categories
+
+---
+
+## 📈 Dashboard Features
+- Interactive slicers
+- Brand-wise analysis
+- Category-wise sales insights
+- Price and discount visualization
+- Dynamic charts
+
+---
+
+## 📷 Dashboard Preview
+> Add a screenshot of your dashboard here.
+
+Example:
+
+```
+images/dashboard.png
+```
+
+Then display it using:
+
+```markdown
+![Dashboard](images/dashboard.png)
+```
+
+---
+
+## 📁 Project Structure
+
+```
+Myntra-Data-Analytics/
+│
+├── Myntra_Dataset.xlsx
+├── Dashboard.png
+├── README.md
+└── Images/
+```
+
+---
+
+## 🚀 Business Insights
+- Identified the brands with the highest number of products.
+- Compared pricing across different categories.
+- Analyzed discount trends to understand promotional strategies.
+- Highlighted categories with the largest product offerings.
+
+---
+
+## 🎓 Learning Outcomes
+Through this project, I gained practical experience in:
+- Data cleaning and preprocessing
+- Exploratory Data Analysis (EDA)
+- Creating Pivot Tables and Pivot Charts
+- Designing interactive Excel dashboards
+- Extracting actionable business insights from data
+
+---
+
+## 👤 Author
+
+**Shakti**
+
+Aspiring Data Analyst
+
+### Skills
+- Excel
+- SQL
+- Python
+- Power BI
+- Data Analysis
+
+---
+
+## ⭐ If you found this project helpful, consider giving it a Star!
