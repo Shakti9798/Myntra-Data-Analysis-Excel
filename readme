@@ -78,10 +78,11 @@ Then display it using:
 ```
 Myntra-Data-Analytics/
 │
-├── Myntra_Dataset.xlsx
-├── Dashboard.png
 ├── README.md
-└── Images/
+Myntra_Dataset.xlsx
+├── Dashboard.png
+├── Myntra_Dataset.xlsx
+
 ```
 
 ---
@@ -106,7 +107,7 @@ Through this project, I gained practical experience in:
 
 ## 👤 Author
 
-**Shakti**
+**Shakti Bhushan Mishra**
 
 Aspiring Data Analyst
 
