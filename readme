@@ -1,123 +1,133 @@
-# 🛍️ Myntra Data Analytics Project
+# 👕 Myntra Sales Analysis Dashboard (Microsoft Excel)
 
 ## 📌 Project Overview
-This project focuses on analyzing the Myntra fashion dataset to extract meaningful business insights using Microsoft Excel. The dataset was cleaned, transformed, and analyzed to identify sales trends, customer preferences, and product performance.
-
-The goal of this project is to demonstrate data cleaning, data analysis, and dashboard creation skills.
-
----
-
-## 📂 Dataset
-- **Dataset:** Myntra Fashion Dataset
-- **Tool Used:** Microsoft Excel
-- **File Format:** `.xlsx`
+This project analyzes a Myntra fashion products dataset using **Microsoft Excel**. The objective was to clean the raw data, perform exploratory data analysis, create pivot tables, and build interactive dashboards to uncover business insights related to brands, products, pricing, and customer ratings.
 
 ---
 
 ## 🎯 Objectives
-- Clean and preprocess raw data.
-- Remove duplicates and handle missing values.
-- Standardize data for analysis.
-- Analyze product categories and brands.
-- Identify top-performing brands.
-- Study pricing and discount patterns.
-- Create an interactive dashboard for business insights.
+- Clean and prepare the raw dataset for analysis.
+- Analyze product and brand performance.
+- Compare marked prices and discounted prices.
+- Identify trends in ratings and customer engagement.
+- Build interactive dashboards for business decision-making.
 
 ---
 
-## 🛠️ Tools & Skills Used
+## 🛠️ Tools Used
 - Microsoft Excel
-- Data Cleaning
 - Pivot Tables
 - Pivot Charts
 - Slicers
-- Conditional Formatting
-- Data Visualization
+- Data Cleaning
 - Dashboard Design
 
 ---
 
-## 📊 Key Analysis
-- Top-selling brands
-- Product category distribution
-- Average selling price by category
-- Discount percentage analysis
-- Brand-wise product count
-- Price comparison across categories
+## 📂 Project Structure
+
+| Sheet Name | Description |
+|------------|-------------|
+| **Unclean_Data** | Original raw dataset |
+| **Cleaned_Data** | Cleaned and processed dataset |
+| **Analysis_I_Did** | Summary statistics and exploratory analysis |
+| **Brand_pivot_table** | Brand-wise analysis |
+| **Brand_dashboard** | Interactive dashboard for brand insights |
+| **Product_pivot_table** | Product-level analysis |
+| **Product_dashboard** | Product performance dashboard |
+| **OVERALL_DASHBOARD** | Final interactive dashboard |
+
+---
+
+## 📊 Analysis Performed
+
+- Data Cleaning
+- Removed duplicate records
+- Handled missing values
+- Standardized product information
+- Brand-wise product analysis
+- Product count analysis
+- Price comparison
+- Rating analysis
+- Customer engagement analysis
+- Interactive dashboard creation
 
 ---
 
 ## 📈 Dashboard Features
-- Interactive slicers
-- Brand-wise analysis
-- Category-wise sales insights
-- Price and discount visualization
-- Dynamic charts
+
+The dashboard allows users to:
+
+- View brand-wise product distribution
+- Analyze product ratings
+- Compare marked price vs discounted price
+- Filter data using slicers
+- Explore product-level insights interactively
+
+---
+
+## 🔍 Key Insights
+
+- Cleaned the dataset to improve analysis quality.
+- Compared original prices with discounted prices.
+- Analyzed product ratings and customer review counts.
+- Identified top-performing brands based on available products.
+- Built interactive dashboards for easy business reporting.
+
+---
+
+## 📁 Dataset
+
+The dataset contains information such as:
+
+- Product Name
+- Brand Name
+- Rating
+- Rating Count
+- Marked Price
+- Discounted Price
+- Available Sizes
+- Product Link
+
+---
+
+## 🚀 Skills Demonstrated
+
+- Data Cleaning
+- Data Analysis
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Dashboard Development
+- Business Insights
+- Data Visualization
 
 ---
 
 ## 📷 Dashboard Preview
-> Add a screenshot of your dashboard here.
+
+Add screenshots of your dashboards here.
 
 Example:
 
 ```
-images/dashboard.png
-```
-
-Then display it using:
-
-```markdown
-![Dashboard](images/dashboard.png)
+images/
+│── overall_dashboard.png
+│── brand_dashboard.png
+│── product_dashboard.png
 ```
 
 ---
 
-## 📁 Project Structure
-
-```
-Myntra-Data-Analytics/
-│
-├── README.md
-Myntra_Dataset.xlsx
-├── Dashboard.png
-├── Myntra_Dataset.xlsx
-
-```
-
----
-
-## 🚀 Business Insights
-- Identified the brands with the highest number of products.
-- Compared pricing across different categories.
-- Analyzed discount trends to understand promotional strategies.
-- Highlighted categories with the largest product offerings.
-
----
-
-## 🎓 Learning Outcomes
-Through this project, I gained practical experience in:
-- Data cleaning and preprocessing
-- Exploratory Data Analysis (EDA)
-- Creating Pivot Tables and Pivot Charts
-- Designing interactive Excel dashboards
-- Extracting actionable business insights from data
-
----
-
-## 👤 Author
+## 👨‍💻 Author
 
 **Shakti Bhushan Mishra**
 
-Aspiring Data Analyst
-
-### Skills
-- Excel
-- SQL
-- Python
-- Power BI
-- Data Analysis
+- GitHub: https://github.com/Shakti9798
+- LinkedIn: https://www.linkedin.com/in/shakti-bhushan-mishra
 
 ---
 
-## ⭐ If you found this project helpful, consider giving it a Star!
+## ⭐ If you found this project useful, consider giving it a Star!
+
+
